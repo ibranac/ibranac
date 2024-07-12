@@ -1,6 +1,6 @@
 ### Hi there 👋I’m currently getting extensive training from Perscholas in the field of cyber security and am CySA+ certified.
 - 🌱 I’m currently working as a data analyst.
-- 👯 I’m looking to transition my career from data analysis to cuber security.
+- 👯 I’m looking to transition my career from data analysis to cyber security.
 
 
 <!--
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently getting extensive training from Perscholas in the field of cyber security and I am CySA+ certified.
 - 🌱 I’m currently working as a data analyst.
-- 👯 I’m looking to transition my career from data analysis to cuber security.
+- 👯 I’m looking to transition my career from data analysis to cyber security.
